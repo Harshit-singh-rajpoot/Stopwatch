@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: lightcyan;
+    /* border: 2px solid black; */
+    text-align: center;
+    margin-top: 10%
+}
+.s1{
+    font-size: 100px;
+}
+p{
+    font-size: 30px;
+}
+.c2 button{
+    font-size: 30px;
+    margin: 20px;
+    border-radius: 10px;
+    background-color: lightgray;
+}
